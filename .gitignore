@@ -1,0 +1,6 @@
+R_gcm/
+Pipfile.lock
+.Rproj.user
+*.egg-info/
+.Rhistory
+.vscode/
